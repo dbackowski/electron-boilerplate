@@ -10,7 +10,7 @@
     "url": "https://github.com/dbackowski/electron-boilerplate.git"
   },
   "author": "Damian Baćkowski",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "electron-prebuilt": "^0.36.9"
   }
