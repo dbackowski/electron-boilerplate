@@ -2,6 +2,8 @@
 
 Electron boilerplate.
 
+![screenshot](http://i.imgur.com/Q1Kajv7.png)
+
 ## Usage
 
 ```
@@ -9,10 +11,10 @@ npm install
 npm start
 ```
 
-To create standalone packages for linux (x64) and mac OS X (x64):
+To create standalone packages for Linux (x64) and Mac OS X (x64):
 
 ```
-npm run-script package
+npm run-script build
 ```
 
 ## License
