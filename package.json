@@ -14,7 +14,7 @@
   "author": "Damian Baćkowski",
   "license": "MIT",
   "devDependencies": {
-    "electron-packager": "8.4.0",
-    "electron": "1.4.13"
+    "electron-packager": "8.5.0",
+    "electron": "1.4.14"
   }
 }
