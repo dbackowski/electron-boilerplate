@@ -1,4 +1,5 @@
 node_modules
 npm-debug.log
+yarn-error.log
 electron-boilerplate-darwin-x64
 electron-boilerplate-linux-x64
